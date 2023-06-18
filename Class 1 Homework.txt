@@ -1,0 +1,4 @@
+1. Read text book chatper 1.3 to 1.7;
+2. Type the simple_dice.py program in replit.com, then execute the program, screenshot the results;
+3. What is the probability of a certain number with a Single Die? Can you verify it? how many times do you  have to roll the dice to get a probability number that is close to the probability number we all know from your math teachers in your home school?
+
