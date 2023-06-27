@@ -1,6 +1,17 @@
-1. Please use what you learned in the class to write a python program to calculate 
+1. Please copy following python programs then run them:
+* Class 2 If statement.py
+* Class 2 additionsubstraction.py
+* Class 2 list.py
+* Class 2 string and tuple.py
+* Class 2 sum.py
+
+Try to modify the numbers or words in the programs wherever you think appropriate then run the programs again. If you encounter any execution/run error, recopy the programs from GITHUB, then modify and run again.
+ 
+2. Please use what you learned in the class to write a python program to calculate 
 1 + 4 + 9 + 16 + .... + 98 * 98 + 99 * 99 + 100 * 100.
-2. Attached please find 2_simple_dice.py python program we used in the class for rolling dice. Try to run it. Question: how many times should you roll the dice so you can get better probability of a certain number closer to the 1/6 i.e. 0.167 probability?
+Hint: try to run "Class 2 sum.py" first.
+
+3. Attached please find 2_simple_dice.py python program we used in the class for rolling dice. Try to run it. Question: how many times should you roll the dice so you can get better probability of a certain number closer to the 1/6 i.e. 0.167 probability?
 
 
 
