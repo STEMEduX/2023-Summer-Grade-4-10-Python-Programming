@@ -1,5 +1,9 @@
-rows = 5
-cols = 23
+rows = eval(input('Please input how many rows: '))
+cols = eval(input('Please input how many cols: '))
 
+print('')
 for i in range(rows):
-    print('*' + ('*' if i in (0, rows - 1) else ' ') * (cols - 2) + '*')
+    if i in (0, rows - 1):  
+        print('*'* cols)
+    else:
+        print('*' + (' ') * (cols - 2) + '*')
