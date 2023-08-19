@@ -1,1 +1,2 @@
 Please create your own calculator using python. Can you add colors to the button labels?
+Here is the link for the colors: https://www.tcl.tk/man/tcl/TkCmd/colors.html
