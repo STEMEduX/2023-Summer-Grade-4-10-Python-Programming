@@ -1,0 +1,11 @@
+sqrt: result = math.sqrt(float(entry.get()))
+10^x: result = 10 ** float(entry.get())
+x!: result = math.factorial(int(entry.get()))
+1/x: result = 1 / float(entry.get())
+loge(x): result = math.log(float(entry.get()))
+log10(x): result = math.log10(float(entry.get()))
+logn(x): result = math.log(float(entry.get()), n)
+^2: result = float(entry.get()) ** 2
+tan: result = math.tan(math.radians(float(entry.get())))
+cos: result = math.cos(math.radians(float(entry.get())))
+sin: result = math.sin(math.radians(float(entry.get())))
